@@ -77,13 +77,9 @@ for (int i=0; i <n;i++)
     aux.lvl=0;
     numbers[i]=aux;
 }
-auto start = std::chrono::high_resolution_clock::now();
 for (int i=0;i<n;i++){
     Tree_Gen(numbers,numbers[i],n);
 }
-auto stop = std::chrono::high_resolution_clock::now();
-auto duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - start);
-start = std::chrono::high_resolution_clock::now();
 int count=0;
 for (const auto& pair : numbers) {
         if(isPower(k,pair.second.value))
@@ -91,11 +87,7 @@ for (const auto& pair : numbers) {
         else
         continue;
     }
-stop = std::chrono::high_resolution_clock::now();
-auto duration2 = std::chrono::duration_cast<std::chrono::microseconds>(stop - start);
     cout<<count<<endl;
-    cout<<duration.count()<<endl;
-    cout<<duration2.count()<<endl;
 
 return 0;
 }
