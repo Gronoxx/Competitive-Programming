@@ -16,7 +16,8 @@ Here is a summary of my progress on some of the main platforms. The stats are up
 
 | LeetCode | Codeforces | Beecrowd |
 | :---: | :---: | :---: |
-| <a href="https://leetcode.com/u/Gronoxx/"><img src="https://leet-code-stat.onrender.com/api/Gronoxx" alt="Estatísticas LeetCode"/></a> | <a href="https://codeforces.com/profile/gronoxx"><img src="https://codeforces-readme-stats.vercel.app/api/problem_ratings?username=gronoxx" alt="Estatísticas de Problemas Codeforces"/></a> | <a href="https://judge.beecrowd.com/pt/profile/977643"><img src="https://beecrowd-stats.vercel.app/api?id=977643&theme=dracula" alt="Estatísticas Beecrowd"/></a> |
+| <a href="https://leetcode.com/u/Gronoxx/"><img src="https://leet-code-stat.onrender.com/api/Gronoxx" alt="Estatísticas LeetCode"/></a> | <a href="https://codeforces.com/profile/gronoxx"><img src="https://codeforces-readme-stats.vercel.app/api/problem_ratings?username=gronoxx" alt="Estatísticas de Codeforces"/></a> | <img width="1712" height="966" alt="image" src="https://github.com/user-attachments/assets/10d16c64-6440-4ede-bb42-dd659f122ca4" />
+" alt="Estatísticas Beecrowd"/></a> |
 | **Perfil:** [Gronoxx](https://leetcode.com/u/Gronoxx/) | **Perfil:** [gronoxx](https://codeforces.com/profile/gronoxx) | **Perfil:** [Gustavo Apolinário](https://judge.beecrowd.com/pt/profile/977643) |
 
 </div>
