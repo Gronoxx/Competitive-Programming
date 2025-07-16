@@ -16,7 +16,7 @@ Here is a summary of my progress on some of the main platforms. The stats are up
 
 | LeetCode | Codeforces | Beecrowd |
 | :---: | :---: | :---: |
-| <a href="https://leetcode.com/u/Gronoxx/"><img src="https://github.com/user-attachments/assets/236b8f6b-57a4-4693-8e48-c22d5cfd0643" alt="Estatísticas LeetCode"/></a> | <a href="https://codeforces.com/profile/gronoxx"><img src="https://github.com/user-attachments/assets/81ef402b-0a9a-4ed2-8bae-01cf21390457" alt="Estatísticas Codeforces"/></a> | <a href="https://judge.beecrowd.com/pt/profile/977643"><img src="https://github.com/user-attachments/assets/10d16c64-6440-4ede-bb42-dd659f122ca4" alt="Estatísticas Beecrowd"/></a> |
+| <a href="https://leetcode.com/u/Gronoxx/"><img src="https://github.com/user-attachments/assets/236b8f6b-57a4-4693-8e48-c22d5cfd0643" alt="Estatísticas LeetCode"/></a> | <a href="[https://codeforces.com/profile/gronoxx](https://hitarth-gg.github.io/codeforces-explorer/user/gronoxx)"><img src="https://github.com/user-attachments/assets/81ef402b-0a9a-4ed2-8bae-01cf21390457" alt="Estatísticas Codeforces"/></a> | <a href="https://judge.beecrowd.com/pt/profile/977643"><img src="https://github.com/user-attachments/assets/10d16c64-6440-4ede-bb42-dd659f122ca4" alt="Estatísticas Beecrowd"/></a> |
 | **Perfil:** [Gronoxx](https://leetcode.com/u/Gronoxx/) | **Perfil:** [gronoxx](https://codeforces.com/profile/gronoxx) | **Perfil:** [Gustavo Apolinário](https://judge.beecrowd.com/pt/profile/977643) |
 
 </div>
