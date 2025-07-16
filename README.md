@@ -23,7 +23,7 @@ Here is a summary of my progress on some of the main platforms. The stats are up
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 The solutions in this repository are organized by platform to ensure they are easy to navigate and find.
 
@@ -44,6 +44,6 @@ The solutions in this repository are organized by platform to ensure they are ea
 
 ---
 
-## 💻 Languages & Tools
+## Languages & Tools
 
 My primary language for competitive programming is **C++:** For performance-critical tasks and its rich Standard Template Library (STL).
