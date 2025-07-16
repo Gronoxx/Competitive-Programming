@@ -2,14 +2,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 </p>
 
 This repository serves as a personal archive of my solutions to problems from various competitive programming platforms. I use competitive programming to continuously sharpen my problem-solving abilities, master fundamental and advanced data structures & algorithms, and prepare for technical challenges.
 
 ---
 
-## 📊 Statistics & Profiles
+## Statistics & Profiles
 
 Here is a summary of my progress on some of the main platforms. The stats are updated dynamically.
 
@@ -17,8 +16,8 @@ Here is a summary of my progress on some of the main platforms. The stats are up
 
 | LeetCode | Codeforces | Beecrowd |
 | :---: | :---: | :---: |
-| <a href="https://leetcode.com/u/Gronoxx/"><img src="https://leet-code-stat.onrender.com/api/Gronoxx" alt="LeetCode Stats"/></a> | <a href="https://codeforces.com/profile/gronoxx"><img src="https://codeforces-readme-stats.vercel.app/api/problem_ratings?username=gronoxx" alt="Codeforces Problem Ratings"/></a> | <a href="https://judge.beecrowd.com/pt/profile/977643"><img src="https://beecrowd-stats.vercel.app/api?id=977643&theme=dracula" alt="Beecrowd Stats"/></a> |
-| **Profile:** [Gronoxx](https://leetcode.com/u/Gronoxx/) | **Profile:** [gronoxx](https://codeforces.com/profile/gronoxx) | **Profile:** [977643](https://judge.beecrowd.com/pt/profile/977643) |
+| <a href="https://leetcode.com/u/Gronoxx/"><img src="https://leet-code-stat.onrender.com/api/Gronoxx" alt="Estatísticas LeetCode"/></a> | <a href="https://codeforces.com/profile/gronoxx"><img src="https://codeforces-readme-stats.vercel.app/api/problem_ratings?username=gronoxx" alt="Estatísticas de Problemas Codeforces"/></a> | <a href="https://judge.beecrowd.com/pt/profile/977643"><img src="https://beecrowd-stats.vercel.app/api?id=977643&theme=dracula" alt="Estatísticas Beecrowd"/></a> |
+| **Perfil:** [Gronoxx](https://leetcode.com/u/Gronoxx/) | **Perfil:** [gronoxx](https://codeforces.com/profile/gronoxx) | **Perfil:** [Gustavo Apolinário](https://judge.beecrowd.com/pt/profile/977643) |
 
 </div>
 
